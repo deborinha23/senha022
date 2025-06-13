@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+:root{
+    --branco: white;
+    --cor-de-fundo:#38037a;
+--fundo-senha: #ffffff;
+--fundo-texto:#000811;
+--borda:#000000;
+--abrilfatface:'Abril Fatface' monospace;
+
+}
+
+body{
+    color:var(--branco);
+    background-color:var(--cor-de-fundo);
+    font-family: var(--abrilfatface);
+}
